@@ -15,13 +15,16 @@ Creation of the store
 npm create vite .
 npm i react-router-dom bootstrap react-bootstrap
 
-Basic folder structure:
+** Basic folder structure:
 - components;
 - context;
 - data;
 - hooks;
 - pages;
 - utilities.
+
+** export function instead of export default function, larger projects will have all exports named that is a little bit easier to keep track of everything.
+
 
 
 
