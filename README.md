@@ -13,4 +13,6 @@ when you add anything to the cart you can go to a different page where you can i
 DEVELOPMENT Notes:
 Creation of the store
 npm create vite .
-npm i
+npm i react-router-dom bootstrap react-bootstrap
+
+
