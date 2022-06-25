@@ -15,4 +15,14 @@ Creation of the store
 npm create vite .
 npm i react-router-dom bootstrap react-bootstrap
 
+Basic folder structure:
+- components;
+- context;
+- data;
+- hooks;
+- pages;
+- utilities.
+
+
+
 
