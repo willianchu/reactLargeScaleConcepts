@@ -25,7 +25,13 @@ npm i react-router-dom bootstrap react-bootstrap
 
 ** export function instead of export default function, larger projects will have all exports named that is a little bit easier to keep track of everything.
 
+** Page server side rendering:
 
+index > main > app > components
+
+main - BrowserRouter
+
+app - routes
 
 
 
