@@ -1,6 +1,7 @@
-import { Container, Nav, Navbar as NavbarBS } from 'react-bootstrap'
-import { NavLink } from 'react-router-dom'
-import { ReactComponent as ShoppingCart } from '../assets/shopping-cart.svg'
+import React from 'react';	
+import { Container, Nav, Navbar as NavbarBS } from 'react-bootstrap';
+import { NavLink } from 'react-router-dom';
+
 
 export function Navbar() {
   return (
@@ -12,7 +13,17 @@ export function Navbar() {
       <Nav.Link to="/about"as ={NavLink}>About</Nav.Link>
     </Nav>
     <button>
-      <ShoppingCart />
+    <svg
+		viewBox="0 0 24 24"
+		xmlns="<http://www.w3.org/2000/svg>"
+	>
+		<circle
+			cx="12" cy="12" r="8"
+			stroke-width="4" stroke="tomato"
+			fill="none"
+		/>
+
+	</svg>
     </button>
     </Container> 
   </NavbarBS>
