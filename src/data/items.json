@@ -1,20 +1,26 @@
 [
   {
+    "id": 0,
+    "name": "Tesla Model S Plaid",
+    "price": "$178,590.00",
+    "imgUrl": "/imgs/ModelS.jpg"
+  },
+  {
     "id": 1,
-    "name": "Lorem ipsum dolor sit met",
-    "price": "$1.00",
-    "imgUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    "name": "Tesla Model 3 Long Range",
+    "price": "$76,990.00",
+    "imgUrl": "/imgs/Model3.jpg"
   },
   {
     "id": 2,
-    "name": "Tip sum dolor sit met",
-    "price": "$31.00",
-    "imgUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    "name": "Tesla Model X Plaid",
+    "price": "$185,590.00",
+    "imgUrl": "/imgs/ModelX.jpg"
   },
   {
     "id": 3,
-    "name": "Dolor sit met",
-    "price": "$15.00",
-    "imgUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"	
+    "name": "Tesla Model Y Long Range",
+    "price": "$86,990.00",
+    "imgUrl": "/imgs/ModelY.jpg"	
   }
 ]
