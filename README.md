@@ -1,6 +1,6 @@
 # reactLargeScaleConcepts
 
-React e-commerce using typescript. 
+React e-comerce using typescript. 
 - advanced file structure
 - folder structure naming
 - conventions best practices
