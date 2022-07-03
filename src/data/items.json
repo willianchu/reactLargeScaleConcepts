@@ -1,25 +1,25 @@
 [
   {
     "id": 0,
-    "name": "Tesla Model S Plaid",
+    "name": "Model S Plaid",
     "price": 178590,
     "imgUrl": "/imgs/ModelS.jpg"
   },
   {
     "id": 1,
-    "name": "Tesla Model 3 Long Range",
+    "name": "Model 3 Long Range",
     "price": 76990,
     "imgUrl": "/imgs/Model3.jpg"
   },
   {
     "id": 2,
-    "name": "Tesla Model X Plaid",
+    "name": "Model X Plaid",
     "price": 185590,
     "imgUrl": "/imgs/ModelX.jpg"
   },
   {
     "id": 3,
-    "name": "Tesla Model Y Long Range",
+    "name": "Model Y Long Range",
     "price": 86990,
     "imgUrl": "/imgs/ModelY.jpg"	
   }
